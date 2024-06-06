@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 .vscode/
 bin/
 build/
 resources/
+=======
+.vscode/
+bin/
+build/
+resources/
+>>>>>>> 80381d087b80461cc5ce2870897745d48aca1c8a
